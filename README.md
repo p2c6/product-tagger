@@ -29,6 +29,7 @@ A Shopify embedded app that allows you to easily manage tags for products in you
 * Filter products by keyword, product type, collection, or any combination of these.
 * Embedded UI for easy product filtering.
 * Supports multiple product types.
+* Preview of filtered products.
 * Built with modern Node.js, React, Polaris and Prisma stack.
 
 ---
@@ -127,7 +128,6 @@ redirect_urls = [
 3. Accept permissions and click **Install**.
 4. Navigate to **Products** in the app and start tagging products.
 5. You can perform the following operations on product tags:
-
    * Add a new tag
    * Update an existing tag
    * Remove a tag
